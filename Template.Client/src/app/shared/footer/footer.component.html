@@ -1,0 +1,36 @@
+<footer class="bg-dark text-white py-4 mt-auto">
+    <div class="container">
+        <div class="row text-center text-md-start">
+
+            <!-- Company Name -->
+            <div class="col-md-4 mb-3">
+                <h5>{{ companyName }}</h5>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-md-4 mb-3">
+                <h5>Quick Links</h5>
+                <ul class="list-unstyled">
+                    <li><a routerLink="/" class="text-white text-decoration-none">Home</a></li>
+                    <li><a routerLink="/about" class="text-white text-decoration-none">About</a></li>
+                    <li><a routerLink="/contact" class="text-white text-decoration-none">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Social Media -->
+            <div class="col-md-4 mb-3">
+                <h5>Follow Us</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="text-white me-3 text-decoration-none">GitHub</a></li>
+                    <li><a href="#" class="text-white text-decoration-none">LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Copy -->
+        <div class="text-center mt-3 border-top pt-3 small">
+            Developed by {{ developerName }} &copy; {{ currentYear }} {{ companyName }}. All rights reserved.
+        </div>
+
+    </div>
+</footer>
