@@ -36,3 +36,4 @@ E:\Template\Template.Server\obj\Debug\net9.0\refint\Template.Server.dll
 E:\Template\Template.Server\obj\Debug\net9.0\Template.Server.pdb
 E:\Template\Template.Server\obj\Debug\net9.0\Template.Server.genruntimeconfig.cache
 E:\Template\Template.Server\obj\Debug\net9.0\ref\Template.Server.dll
+E:\Template\Template.Server\obj\Debug\net9.0\Template.Server.sourcelink.json
